@@ -1,0 +1,2 @@
+public class SziykhHW1 {
+}
