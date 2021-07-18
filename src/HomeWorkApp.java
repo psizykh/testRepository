@@ -5,7 +5,7 @@ public class HomeWorkApp {
     public static void main(String[] args) {
         printThreeWords();
         checkSumSign(5, -10);
-        System.out.println(printColor(1090));
+        System.out.println(printColor(950));
         CompareNumbers(10, 0);
     }
 
@@ -27,7 +27,7 @@ public class HomeWorkApp {
     public static String printColor(int value1) {
         if (value1 <= 0)
             return "Красный";
-        else if (value1 <= 100)
+        else if (value1 >0 && value1<= 100)
             return "Жёлтый";
         else
             return "Зелёный";
