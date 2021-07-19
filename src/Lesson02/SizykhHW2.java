@@ -40,4 +40,8 @@ public class SizykhHW2 {
         }
 
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master
